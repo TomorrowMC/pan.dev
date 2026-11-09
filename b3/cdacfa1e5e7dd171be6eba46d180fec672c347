@@ -1,0 +1,35 @@
+openapi-specs/iot/api/public/assignOrganizationSites.yaml
+  s_75ac59051279bc::t_28a235aed7af3a 1-42
+openapi-specs/iot/api/public/createOrganizationGroup.yaml
+  s_75ac59051279bc::t_9fb52bf2638064 1-42
+openapi-specs/iot/api/public/deleteOrganizationGroup.yaml
+  s_75ac59051279bc::t_f7d464f1ac020f 1-41
+openapi-specs/iot/api/public/getOrganization.yaml
+  s_75ac59051279bc::t_b521d156748abc 1-56
+openapi-specs/iot/api/public/unassignOrganizationSites.yaml
+  s_75ac59051279bc::t_5a120db0b7f281 1-42
+openapi-specs/iot/api/public/updateOrganizationGroup.yaml
+  s_75ac59051279bc::t_34548fa9d2751d 1-46
+openapi-specs/iot/components/examples.yaml
+  s_75ac59051279bc::t_4198218451588e 1390-1551
+openapi-specs/iot/components/schemas.yaml
+  s_75ac59051279bc::t_3bb35537c5007b 1627-1629,1695-1697,1737-1739,1784-2003
+openapi-specs/iot/iot.yaml
+  s_75ac59051279bc::t_824a614cfb6b89 688-771
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "b3cdacfa1e5e7dd171be6eba46d180fec672c347",
+  "prompts": {},
+  "sessions": {
+    "s_75ac59051279bc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "685dfd66-cc42-4079-86d4-3cb0627daabf",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Yifei Hu <yifhu@paloaltonetworks.com>"
+    }
+  }
+}
