@@ -1,0 +1,23 @@
+openapi-specs/iot/api/public/deleteOrganizationGroup.yaml
+  s_bc54d14af9901c::t_0a524e2a8ea0e2 4-5
+openapi-specs/iot/components/schemas.yaml
+  s_bc54d14af9901c::t_772561b9a633aa 1697-1698,1795,1853,1913-1916,1982
+openapi-specs/iot/iot.yaml
+  s_bc54d14af9901c::t_50a6de4b9f23a1 690-691,702-703,716-717,730-731,744-745,758-759
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "15890f7eb7bf3f2ffd0a9e91d76897a344174698",
+  "prompts": {},
+  "sessions": {
+    "s_bc54d14af9901c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a9643794-d82d-48bf-a5ad-80831fd3d620",
+        "model": "unknown"
+      },
+      "human_author": "Yifei Hu <yifhu@paloaltonetworks.com>"
+    }
+  }
+}
