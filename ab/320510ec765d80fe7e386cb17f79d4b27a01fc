@@ -1,0 +1,19 @@
+openapi-specs/iot/api/public/deviceListV2.yaml
+  s_a4c66b7f904251::t_b99d2d3aa2d053 32-49
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "ab320510ec765d80fe7e386cb17f79d4b27a01fc",
+  "prompts": {},
+  "sessions": {
+    "s_a4c66b7f904251": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d9bbd271-fba2-45fd-b66e-fafb5ff214c9",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Yifei Hu <yifhu@paloaltonetworks.com>"
+    }
+  }
+}
