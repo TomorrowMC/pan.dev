@@ -1,0 +1,21 @@
+openapi-specs/iot/components/schemas.yaml
+  s_130be164d382b0::t_85b26f8495655b 1739,1741-1744,1746,1748-1749,1920-1922,1969
+openapi-specs/iot/iot.yaml
+  s_130be164d382b0::t_781f70eaa72e02 704,718
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "039419807b03b573281507f9c860223229ebba71",
+  "prompts": {},
+  "sessions": {
+    "s_130be164d382b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "86a026c0-1a2e-415d-9444-abbcb6226688",
+        "model": "claude-haiku-5-5"
+      },
+      "human_author": "Yifei Hu <yifhu@paloaltonetworks.com>"
+    }
+  }
+}
